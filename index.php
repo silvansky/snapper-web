@@ -16,9 +16,9 @@
 
 $time = exec("./lastsnap.sh");
 
-print("	<div class=snapdiv><img class=snap src='lastsnap.png?" . rand() . "' /></div>");
+print("	<div class=snapdiv><img class=snap src='lastsnap.png?" . rand() . "' /></div>\n");
 
-print("	<p class=time>Snapshot time: " . $time . "\n</p>\n");
+print("	<p class=time>Snapshot time: " . $time . "</p>\n");
 
 print("	<p class=footer>\n");
 print("	<a href='https://github.com/silvansky/snapper-web'>src@github</a><br>\n");
