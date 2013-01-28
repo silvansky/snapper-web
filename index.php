@@ -5,6 +5,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<script type="text/javascript" src="snapper.js"></script>
 	<link rel="stylesheet" type="text/css" href="snapper.css" />
+	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 
 <body onload="JavaScript:timedRefresh(1);">
