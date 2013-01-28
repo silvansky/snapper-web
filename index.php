@@ -9,7 +9,7 @@
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 
-<body onload="JavaScript:timedRefresh(1);">
+<body onload="JavaScript:timedRefresh(5);">
 	<div class=main>
 
 <?php
